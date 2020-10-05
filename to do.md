@@ -1,5 +1,8 @@
 # To Do
 
+### Github
+* [ ] Upload starting files
+
 ### Website scraping
 * [ ] Integrate the 'extract tables' file to our main file (make a function)
 * [ ] Clean up tables, only keep relevant information
