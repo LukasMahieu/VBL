@@ -10,6 +10,7 @@
 * [ ] Look into functions structuring & packages
 * [ ] Where to store data? Cloud storages.
 * [ ] Airflow
+* [ ] Docker applicable here?
 
 ### Visualization
 * [ ] Test data visualisations
