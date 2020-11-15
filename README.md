@@ -1,2 +1,2 @@
 # VBL
-Using the VBL API &amp; scraping their website in Python to create a dashboard of opponent's scoring
+Use the VBL API and scrape its website to get lists of dataframe of matchinfos for all teams in the series of interest
